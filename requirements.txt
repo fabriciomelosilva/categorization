@@ -3,3 +3,4 @@ pydantic
 spacy
 pt-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_lg-3.5.0/pt_core_news_lg-3.5.0-py3-none-any.whl
 uvicorn
+numpy==1.23.5
